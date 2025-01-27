@@ -68,7 +68,7 @@
 - ویدیوی آموزشی توسط 69
 
 <div align="right">
-  <a href="https://www.youtube.com/watch?v=AjNrYOpNaQE">
+  <a href="https://youtu.be/K1Qt4aBNrIE?si=YuiYWZUczil_pOQS">
     <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/reversetls.jpg" alt="Video Title" width="300">
   </a>
 </div>
