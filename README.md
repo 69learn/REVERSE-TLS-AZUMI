@@ -9,7 +9,9 @@
 </div>
 
 
+
 -----------------------
+**امکانات**
 <div align="right">
     <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/ability.png" alt="Video Title" width="100">
   </a>
@@ -18,7 +20,7 @@
 </div>
 
 -----------------------
-**امکانات**
+
 
 
 - پشتیبانی از TCP و UDP
@@ -59,17 +61,12 @@
 
   </details>
 </div>
-
-------------------------
- <div align="right">
-  <details>
-    <summary><strong><img src="https://github.com/Azumi67/FRP_Reverse_Loadbalance/assets/119934376/ae5b07b8-4d5e-4302-a31f-dec2a79a76b5" alt="Image"> ویدیوهای آموزشی</strong></summary>
-------------------------------------   
+  
 ------------------------
  <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/youtube.png" width="40" alt="Image"> ویدیوهای آموزشی</strong></summary>
-------------------------------------  
+
 - ویدیوی آموزشی توسط 69
 
 <div align="right">
@@ -124,11 +121,6 @@ go get github.com/fatih/color
  <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/guidelines.png" width="40" alt="Image"> </strong>پیش نیازها</summary>
-------------------
- **پیش نیازها**
-
-  
-  
 ------------------------------------ 
 
  - لطفا سرور اپدیت شده باشه.
@@ -139,7 +131,7 @@ go get github.com/fatih/color
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت های کارآمد</strong></summary>
 ------------------------------------   
-**اسکریپت های کارآمد :**
+
 
 
 -
@@ -168,9 +160,6 @@ wget "https://raw.githubusercontent.com/hawshemi/Linux-Optimizer/main/linux-opti
  <div align="right">
   <details>
     <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/script.png" width="40" alt="Image">اسکریپت من</strong></summary>
-------------------------------------  
-**اسکریپت من**
-
 ----------------
 - دستور زیر فایل های پیش نیاز را نصب میکند و سپس اقدام به اجرای اسکریپت میکند. اگر مشکلی داشتید به صورت دستی هم میتوانید نصب کنید
 ```
