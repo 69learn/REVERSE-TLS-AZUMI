@@ -19,8 +19,6 @@
   </details>
 </div>
 
------------------------
-
 
 
 - پشتیبانی از TCP و UDP
@@ -87,7 +85,7 @@
 
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/UDP2RAW_FEC/assets/119934376/71b80a34-9515-42de-8238-9065986104a1" alt="Image"> اموزش نصب go مورد نیاز برای اجرای اسکریپت</strong></summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/right.png" width="40" alt="Image"> اموزش نصب go مورد نیاز برای اجرای اسکریپت</strong></summary>
   
 ------------------------------------ 
 
